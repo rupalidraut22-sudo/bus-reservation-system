@@ -1,2 +1,2 @@
 # bus-reservation-system
-A console-based Bus Reservation System built with Python
+Console-based bus reservation system in Python — OOP, file handling, and data validation.
