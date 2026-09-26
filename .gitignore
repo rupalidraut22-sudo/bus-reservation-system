@@ -1,0 +1,17 @@
+# Runtime data — should not be committed
+reservation_data.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
